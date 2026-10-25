@@ -10,4 +10,4 @@ Lazado is a React (Vite) e-commerce homepage built with reusable components, Rea
 - `src/App.jsx`: holds the state (`products` and `cart`), the `handleAddToCart` and `handleDelete` functions, and computes the cart total.
 - `src/components/Header.jsx`, `NavBar.jsx`, `NavButton.jsx`: header with the store name and a reusable button for each navigation item.
 - `src/components/ProductList.jsx`, `ProductCard.jsx`: the market items, each with an "Add to cart" button.
-- `src/components/Cart.jsx`, `CartItem.jsx`: the shopping cart on the right side; shows the total number of items, each item's quantity, and a delete button that removes that item.
+- `src/components/Cart.jsx`, `CartItem.jsx`: shows the total number of items, each item's quantity, and a delete button that removes that item.
